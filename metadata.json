@@ -1,0 +1,6 @@
+{
+  "name": "Cloud Data Pipeline Testing Platform",
+  "description": "Testing framework that verifies data moved from AWS S3 files through Lambda, Glue, and Databricks into Amazon Redshift arrives complete and correct, with pytest suites, SQL reconciliation, and Excel run summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
